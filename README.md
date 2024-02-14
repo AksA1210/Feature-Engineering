@@ -4,6 +4,6 @@ Semester 6 Course
 
 
 1. Cross Validation Techniques
-2.
-3.
+2. EDA
+3. IQR
 
